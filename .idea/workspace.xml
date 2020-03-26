@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ab88d86-71ad-4174-986b-e3f5ebac35a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8554cd1f-86ba-4f12-882b-2eca2504cf50" />
+  </component>
+  <component name="ProjectId" id="1ZMccDVvV40NmFJGo045Hqmz099" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tzq3mc\PycharmProjects\delphiW" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="s06-handler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="delphiW" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s06-handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.s06-handler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ab88d86-71ad-4174-986b-e3f5ebac35a1" name="Default Changelist" comment="" />
+      <created>1584652480862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584652480862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../Dlph" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1992" y="108" key="#Notifications" timestamp="1585242906421">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="1992" y="108" key="#Notifications/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585242906421" />
+    <state x="285" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584652964417">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="285" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584652964417" />
+    <state x="2171" y="191" key="FileChooserDialogImpl" timestamp="1585244135791">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="2171" y="191" key="FileChooserDialogImpl/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585244135791" />
+    <state x="611" y="191" key="FileChooserDialogImpl/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653027422" />
+    <state x="2213" y="332" key="Github.CreateGistDialog" timestamp="1585243116998">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="2213" y="332" key="Github.CreateGistDialog/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585243116998" />
+    <state x="651" y="332" key="Github.CreateGistDialog/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653234101" />
+    <state x="2270" y="343" key="Github.ShareDialog" timestamp="1585243959180">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="2270" y="343" key="Github.ShareDialog/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585243959180" />
+    <state width="1579" height="236" key="GridCell.Tab.0.bottom" timestamp="1584654347934">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="236" key="GridCell.Tab.0.bottom/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1584654347934" />
+    <state width="1517" height="236" key="GridCell.Tab.0.bottom/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653286212" />
+    <state width="1579" height="236" key="GridCell.Tab.0.center" timestamp="1584654347934">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="236" key="GridCell.Tab.0.center/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1584654347934" />
+    <state width="1517" height="236" key="GridCell.Tab.0.center/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653286212" />
+    <state width="1579" height="236" key="GridCell.Tab.0.left" timestamp="1584654347934">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="236" key="GridCell.Tab.0.left/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1584654347934" />
+    <state width="1517" height="236" key="GridCell.Tab.0.left/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653286212" />
+    <state width="1579" height="236" key="GridCell.Tab.0.right" timestamp="1584654347934">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="236" key="GridCell.Tab.0.right/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1584654347934" />
+    <state width="1517" height="236" key="GridCell.Tab.0.right/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653286212" />
+    <state x="1881" y="92" key="SettingsEditor" timestamp="1585243671112">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="1881" y="92" key="SettingsEditor/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585243671112" />
+    <state x="332" y="92" key="SettingsEditor/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653051471" />
+    <state x="1692" y="92" width="1416" height="716" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584654167480">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="1692" y="92" width="1416" height="716" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1584654167480" />
+    <state x="2095" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1585242701608">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="2095" y="274" key="com.intellij.ide.util.TipDialog/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585242701608" />
+    <state x="2097" y="48" width="606" height="804" key="find.popup" timestamp="1584654155371">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="2097" y="48" width="606" height="804" key="find.popup/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1584654155371" />
+    <state x="2049" y="190" width="700" height="678" key="search.everywhere.popup" timestamp="1585243265111">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="2049" y="190" width="700" height="678" key="search.everywhere.popup/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585243265111" />
+    <state x="494" y="190" width="672" height="678" key="search.everywhere.popup/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584652678852" />
+    <state x="2230" y="241" key="svn.repositoryBrowser" timestamp="1585244051704">
+      <screen x="1600" y="0" width="1600" height="900" />
+    </state>
+    <state x="2230" y="241" key="svn.repositoryBrowser/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585244051704" />
+  </component>
+</project>
