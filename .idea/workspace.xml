@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ab88d86-71ad-4174-986b-e3f5ebac35a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CircleFromGeometricObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IsinstanceDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RectangleFromGeometricObject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s09-beautifulsoup4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s09-mechanicalsoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s09-web.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -48,8 +47,8 @@
       <recent name="C:\Users\tzq3mc\PycharmProjects\delphiW2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.IsinstanceDemo">
-    <configuration name="CircleDerivedFromGeometricObject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.s09-mechanicalsoup">
+    <configuration name="s06-html" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="delphiW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CircleDerivedFromGeometricObject.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s06-html.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CircleFromGeometricObject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s06-readlines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="delphiW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CircleFromGeometricObject.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s06-readlines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IsinstanceDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s09-beautifulsoup4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="delphiW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IsinstanceDemo.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tzq3mc\PycharmProjects\delphiW2\s09-beautifulsoup4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PolymorphismDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s09-mechanicalsoup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="delphiW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PolymorphismDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s09-mechanicalsoup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RectangleDerivedFromGeometricObject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s09-web" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="delphiW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RectangleDerivedFromGeometricObject.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s09-web.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.IsinstanceDemo" />
-        <item itemvalue="Python.PolymorphismDemo" />
-        <item itemvalue="Python.CircleFromGeometricObject" />
-        <item itemvalue="Python.CircleDerivedFromGeometricObject" />
-        <item itemvalue="Python.RectangleDerivedFromGeometricObject" />
+        <item itemvalue="Python.s09-mechanicalsoup" />
+        <item itemvalue="Python.s09-beautifulsoup4" />
+        <item itemvalue="Python.s09-web" />
+        <item itemvalue="Python.s06-readlines" />
+        <item itemvalue="Python.s06-html" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585252467445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="26-03-2020 session 7/8 add">
+      <created>1585253612919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585253612919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,7 +197,8 @@
       <path value="$PROJECT_DIR$/../Dlph" />
     </ignored-roots>
     <MESSAGE value="26-03-2020 session 7/8" />
-    <option name="LAST_COMMIT_MESSAGE" value="26-03-2020 session 7/8" />
+    <MESSAGE value="26-03-2020 session 7/8 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="26-03-2020 session 7/8 add" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1992" y="108" key="#Notifications" timestamp="1585242906421">
@@ -202,10 +209,10 @@
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="285" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584652964417" />
-    <state x="2054" y="44" key="CommitChangelistDialog2" timestamp="1585252464718">
+    <state x="2054" y="44" key="CommitChangelistDialog2" timestamp="1585253609791">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
-    <state x="2054" y="44" key="CommitChangelistDialog2/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585252464718" />
+    <state x="2054" y="44" key="CommitChangelistDialog2/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585253609791" />
     <state x="2171" y="191" key="FileChooserDialogImpl" timestamp="1585244135791">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
@@ -220,30 +227,30 @@
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
     <state x="2270" y="343" key="Github.ShareDialog/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585243959180" />
-    <state width="789" height="236" key="GridCell.Tab.0.bottom" timestamp="1585253256440">
+    <state width="1277" height="413" key="GridCell.Tab.0.bottom" timestamp="1585853184393">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
-    <state width="789" height="236" key="GridCell.Tab.0.bottom/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585253256440" />
+    <state width="1277" height="413" key="GridCell.Tab.0.bottom/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585853184393" />
     <state width="1517" height="236" key="GridCell.Tab.0.bottom/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653286212" />
-    <state width="789" height="236" key="GridCell.Tab.0.center" timestamp="1585253256440">
+    <state width="1277" height="413" key="GridCell.Tab.0.center" timestamp="1585853184392">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
-    <state width="789" height="236" key="GridCell.Tab.0.center/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585253256440" />
+    <state width="1277" height="413" key="GridCell.Tab.0.center/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585853184392" />
     <state width="1517" height="236" key="GridCell.Tab.0.center/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653286212" />
-    <state width="789" height="236" key="GridCell.Tab.0.left" timestamp="1585253256440">
+    <state width="1277" height="413" key="GridCell.Tab.0.left" timestamp="1585853184392">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
-    <state width="789" height="236" key="GridCell.Tab.0.left/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585253256440" />
+    <state width="1277" height="413" key="GridCell.Tab.0.left/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585853184392" />
     <state width="1517" height="236" key="GridCell.Tab.0.left/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653286212" />
-    <state width="789" height="236" key="GridCell.Tab.0.right" timestamp="1585253256440">
+    <state width="1277" height="413" key="GridCell.Tab.0.right" timestamp="1585853184392">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
-    <state width="789" height="236" key="GridCell.Tab.0.right/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585253256440" />
+    <state width="1277" height="413" key="GridCell.Tab.0.right/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585853184392" />
     <state width="1517" height="236" key="GridCell.Tab.0.right/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653286212" />
-    <state x="1881" y="92" key="SettingsEditor" timestamp="1585243671112">
+    <state x="1961" y="127" key="SettingsEditor" timestamp="1585852203615">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
-    <state x="1881" y="92" key="SettingsEditor/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585243671112" />
+    <state x="1961" y="127" key="SettingsEditor/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585852203615" />
     <state x="332" y="92" key="SettingsEditor/62.0.1538.900/1600.0.1600.900@62.0.1538.900" timestamp="1584653051471" />
     <state x="1992" y="183" key="Vcs.Push.Dialog.v2" timestamp="1585252471102">
       <screen x="1600" y="0" width="1600" height="900" />
@@ -253,10 +260,10 @@
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
     <state x="1692" y="92" width="1416" height="716" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1584654167480" />
-    <state x="2095" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1585251611724">
+    <state x="2095" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1585847781852">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
-    <state x="2095" y="274" key="com.intellij.ide.util.TipDialog/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585251611724" />
+    <state x="2095" y="274" key="com.intellij.ide.util.TipDialog/62.0.1538.900/1600.0.1600.900@1600.0.1600.900" timestamp="1585847781852" />
     <state x="2097" y="48" width="606" height="804" key="find.popup" timestamp="1584654155371">
       <screen x="1600" y="0" width="1600" height="900" />
     </state>
